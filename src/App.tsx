@@ -1,8 +1,9 @@
-import { 
-  BasicFunctions,
+import { Counter } from './components';
+// import { 
+  // BasicFunctions,
   // BasicTypes, 
   // ObjectLiterals 
-} from './typescript';
+// } from './typescript';
 
 function App() {
   
@@ -14,7 +15,8 @@ function App() {
         {/* Aquí */}
         {/* <BasicTypes /> */}
         {/* <ObjectLiterals /> */}
-        <BasicFunctions />
+        {/* <BasicFunctions /> */}
+        <Counter />
 
     </main>
   )
