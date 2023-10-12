@@ -1,6 +1,7 @@
 import { 
+  BasicFunctions,
   // BasicTypes, 
-  ObjectLiterals 
+  // ObjectLiterals 
 } from './typescript';
 
 function App() {
@@ -12,7 +13,8 @@ function App() {
         
         {/* Aquí */}
         {/* <BasicTypes /> */}
-        <ObjectLiterals />
+        {/* <ObjectLiterals /> */}
+        <BasicFunctions />
 
     </main>
   )
